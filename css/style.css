@@ -769,7 +769,6 @@ input:focus, a:focus {
 }
 
 .slider img:hover {
-	border: 1px solid #000;
 	opacity: 0.8;
 }
 
